@@ -32,6 +32,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=transparent)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soryeon kim)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&soryeon kim=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&kimsr9210=true&theme=transparent)
 
