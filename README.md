@@ -37,7 +37,7 @@ Welcome 😁👋🏻
  
 <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Instergram-ff69b4?style=flat-square&logo=Instagram&logoColor=white"/></a>
- <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Mail-brightgreen?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ <a href="https://www.instagram.com/10_21k" target="_blank"><img src="https://img.shields.io/badge/Mail-brightgreen?style=flat-square&logo=Gmail&logoColor=white"/></a>
  
  MY STATS 👨🏻‍💻
  
