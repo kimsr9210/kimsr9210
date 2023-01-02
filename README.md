@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ###<h1 align="center">soryeon kim</h1>
 
-🛠Technology Stack🛠
+<h6>🛠Technology Stack🛠</h6>
 
 
 
