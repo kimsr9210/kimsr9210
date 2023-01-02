@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=soryeon%20kim&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=soryeon%20kim&fontSize=90&strokeWidth=1600" />
 
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
 
 - 👋 Hi, I’m @kimsr9210
 - 👀 I’m interested in ...
