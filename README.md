@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=soryeon%20kim&fontSize=90" />
+
 - 👋 Hi, I’m @kimsr9210
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -8,8 +10,6 @@
 kimsr9210/kimsr9210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
