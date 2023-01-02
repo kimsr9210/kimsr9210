@@ -12,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>🧡ABOUT ME 👀 💛<h1/>
-<br/>
-<br/>
+
 <h4>🛠Technology Stack🛠</h4>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
