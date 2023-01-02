@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=soryeon%20kim&fontSize=90&descSize=600" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=soryeon%20kim&fontSize=90&descSize=1600" />
 
 - 👋 Hi, I’m @kimsr9210
 - 👀 I’m interested in ...
