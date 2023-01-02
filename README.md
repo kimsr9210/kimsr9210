@@ -28,7 +28,9 @@ Welcome 😁👋🏻
 
 <h1>🍒ABOUT ME👀 🍒<h1/>
  
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Naver-20c997?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Naver-20c997?style=flat-square&logo=Naver Blog&logoColor=white"/></a>
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Naver-20c997?style=flat-square&logo=Instagram&logoColor=white"/></a>
+ <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Naver-20c997?style=flat-square&logo=Mail&logoColor=white"/></a>
  
  MY STATS 👨🏻‍💻
  
