@@ -12,9 +12,7 @@ kimsr9210/kimsr9210 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there, I'm soryeon Kim  👋
-
-<h1 align="center">soryeon kim</h1>
+<h1 align="center">### Hi there, I'm soryeon Kim  👋<h1/>
 <br/>
 <br/>
 <h4 align="center">🛠Technology Stack🛠</h4>
