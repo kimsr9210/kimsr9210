@@ -12,7 +12,7 @@ kimsr9210/kimsr9210 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center" style="font-size:30px">soryeon kim</p1>
+<p align="center" style="font-size:30px">soryeon kim</p>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
