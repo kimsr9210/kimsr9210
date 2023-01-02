@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=soryeon%20kim&fontSize=90" />
 Welcome 😁👋🏻
-
 <h4>🛠Technology Stack🛠</h4>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,10 +23,8 @@ Welcome 😁👋🏻
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
 <h1>🍒ABOUT ME👀 🍒<h1/>
 <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Naver-20c997?style=flat-square&logo=Naver&logoColor=white"/></a>
- 
  MY STATS 👨🏻‍💻
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsr9210&show_icons=true&theme=graywhite)
 
