@@ -35,9 +35,9 @@ Welcome 😁👋🏻
 <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
 --> 
  
-<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Naver-20c997?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Instergram-ff69b4?style=flat-square&logo=Instagram&logoColor=white"/></a>
- <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Mail-20c997?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Mail-brightgreen?style=flat-square&logo=Gmail&logoColor=white"/></a>
  
  MY STATS 👨🏻‍💻
  
