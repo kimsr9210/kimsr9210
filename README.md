@@ -16,8 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ###<h1 align="center">soryeon kim</h1>
 
-<h6>🛠Technology Stack🛠</h6>
-
+<h4 align="center">🛠Technology Stack🛠</h4>
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
