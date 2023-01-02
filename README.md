@@ -26,8 +26,7 @@ Welcome 😁👋🏻
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 <h1>🍒ABOUT ME👀 🍒<h1/>
-<a href="링크걸_주소"><img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=#E4405F&logoColor=white&link=내링크"/></a>&nbsp
- 
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
  
  MY STATS 👨🏻‍💻
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsr9210&show_icons=true&theme=graywhite)
