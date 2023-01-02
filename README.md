@@ -10,6 +10,10 @@
 kimsr9210/kimsr9210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soryeon's%20GitHub&fontSize=90" />
+Welcome
+
 <h1>🧡ABOUT ME 👀 💛<h1/>
 <h4>🛠Technology Stack🛠</h4>
   
