@@ -23,8 +23,10 @@ Welcome 😁👋🏻
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 <h1>🍒ABOUT ME👀 🍒<h1/>
 <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Naver-20c997?style=flat-square&logo=Naver&logoColor=white"/></a>
+ 
  MY STATS 👨🏻‍💻
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsr9210&show_icons=true&theme=graywhite)
 
