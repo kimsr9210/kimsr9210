@@ -39,7 +39,7 @@ Welcome 😁👋🏻
 <a href="https://www.instagram.com/10_21k" target="_blank"><img src="https://img.shields.io/badge/Instergram-ff69b4?style=flat-square&logo=Instagram&logoColor=white"/></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Mail-brightgreen?style=flat-square&logo=Gmail&logoColor=white"/></a>
  
- MY STATS 👨🏻‍💻
+ MY STATS 👩🏻‍💻
  
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsr9210&show_icons=true&theme=graywhite)
