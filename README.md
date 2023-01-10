@@ -12,11 +12,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=soryeon%20kim&fontSize=90" />
-Welcome 😁👋🏻
+<br/>
 
+
+<h3>Welcome 😁👋🏻</h3>
 
 <h4>🛠Technology Stack🛠</h4>
-
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,6 +29,7 @@ Welcome 😁👋🏻
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
+<br/>
 
 <h1>🍒ABOUT ME👀 🍒<h1/>
 
@@ -39,10 +41,16 @@ Welcome 😁👋🏻
 <a href="https://www.instagram.com/10_21k" target="_blank"><img src="https://img.shields.io/badge/Instergram-ff69b4?style=flat-square&logo=Instagram&logoColor=white"/></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Mail-brightgreen?style=flat-square&logo=Gmail&logoColor=white"/></a>
  
- MY STATS 👩🏻‍💻
- 
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsr9210&show_icons=true&theme=graywhite)
+ <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsr9210&layout=compact&theme=graywhite)
+ MY STATS 👩🏻‍💻
+  <br/>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsr9210&show_icons=true&theme=graywhite) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsr9210&layout=compact&theme=material-vue) 
+
+ 
+ 
+
+
+
 
