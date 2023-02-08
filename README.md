@@ -14,24 +14,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=soryeon%20kim&fontSize=90" />
 <br/>
 
-
-
-<h3>Welcome 😁👋🏻</h3>
-
-<h4>🛠Technology Stack🛠</h4>
-
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br/>
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-<br/>
-
 <h1>🍒ABOUT ME👀 🍒<h1/>
 
 <!--
@@ -43,9 +25,24 @@ You can click the Preview link to take a look at your changes.
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Mail-brightgreen?style=flat-square&logo=Gmail&logoColor=white"/></a>
  
  <br/>
+ 
+ <h4>My tech Stack📚✏</h4>
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br/>
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+ <br/>
+ <br/>
 
  MY STATS 👩🏻‍💻
-  <br/>
+ <br/>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsr9210&show_icons=true&theme=graywhite) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsr9210&layout=compact&theme=material-vue) 
 
