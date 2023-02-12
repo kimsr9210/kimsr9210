@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=soryeon%20kim&fontSize=90" />
 <br/>
 
-<h1>🍒ABOUT ME👀 🍒<h1/>
+<h1>🍒ABOUT ME👀💛 🍒<h1/>
 
 <!--
 <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
