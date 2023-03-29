@@ -49,10 +49,10 @@ You can click the Preview link to take a look at your changes.
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kimsr9210-counter&count_bg=%23848259&title_bg=%23EBCFA9&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimsr9210&theme=graywhite&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kimsr9210&theme=graywhite&show_icons=true" width="400" height="175"/>
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsr9210&exclude_repo=dkssud8150.github.io&layout=compact&theme=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsr9210&exclude_repo=dkssud8150.github.io&layout=compact&theme=compact" width="400" height="175"/>
 </a>
 
 
