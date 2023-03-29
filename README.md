@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api?username=kimsr9210&theme=graywhite&show_icons=true" width="42%" />
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsr9210&exclude_repo=dkssud8150.github.io&layout=compact&theme=compact" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsr9210&exclude_repo=dkssud8150.github.io&layout=compact&theme=compact"/>
 </a>
 
 
