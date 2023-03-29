@@ -11,6 +11,9 @@ kimsr9210/kimsr9210 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<div align="center">
+
+
 <!-- 배너 -->
 <!-- https://github.com/kyechan99/capsule-render -->
 <img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=soryeon%20kim&fontSize=90" />
@@ -55,9 +58,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsr9210&exclude_repo=dkssud8150.github.io&layout=compact&theme=compact" width="400" height="175"/>
 </a>
 
-
- 
-
-
-
-
+</div>
