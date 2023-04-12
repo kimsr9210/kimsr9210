@@ -26,7 +26,8 @@ You can click the Preview link to take a look at your changes.
 --> 
  
 <a href="https://blog.naver.com/kimsr9210" target="_blank"><img src="https://img.shields.io/badge/Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href="https://www.instagram.com/10_21k" target="_blank"><img src="https://img.shields.io/badge/Instergram-ff69b4?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<!--인스타그램 잠시 비공개
+<a href="https://www.instagram.com/10_21k" target="_blank"><img src="https://img.shields.io/badge/Instergram-ff69b4?style=flat-square&logo=Instagram&logoColor=white"/></a>-->
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Mail-brightgreen?style=flat-square&logo=Gmail&logoColor=white"/></a>
  
  <br/>
